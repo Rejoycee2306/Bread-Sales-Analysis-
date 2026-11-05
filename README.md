@@ -30,7 +30,7 @@ My first data analytics project, built in Excel to practise the fundamentals.
 
 ## Dashboard: 
 
-‎The dashboard below summarizes key findings visually.
+‎![Dashboard](Dashboard.png)
 
 ## Recommendations:
 
